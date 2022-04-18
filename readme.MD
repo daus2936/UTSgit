@@ -3,6 +3,4 @@ Nama    : Firdaus Adinegoro
 NIM     : 1101190231
 ``` 
 
-Version 11
-
-zz
+Version 12
