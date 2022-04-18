@@ -100,4 +100,3 @@ EOF
 sed -i "4i WSGIApplicationGroup %{GLOBAL}" /etc/httpd/conf.d/openstack-dashboard.conf
 
 systemctl restart httpd
-systemctl daemon-reload 
